@@ -1,0 +1,1 @@
+- Repositório criado para a realização de exercícios do Curso de Git da School of Net 
