@@ -9,3 +9,5 @@ Repositório criado para a realização de exercícios do Curso de Git da School
 - O arquivo README.md foi editado novamente para inclusão das instruções aqui descritas, repetindo as ações "git add" e "git commit"
 - Com o comando 'git push origin master', os arquivos do repositório local foram enviados ao repositório remoto
 - Fim do primeiro exercício com monitoramento da School of Net
+- Criando um release para o status atual do repositório com o comando "git tag 0.1.0"
+- Enviando o release para o repositório remoto com o comando "git push origin master --tags"

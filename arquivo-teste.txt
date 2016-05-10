@@ -1,1 +1,2 @@
-Inserindo arquivo em repo-teste
+- Inserindo arquivo em repo-teste
+- Alterando arquivo-teste.txt
