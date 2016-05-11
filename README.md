@@ -11,3 +11,4 @@ Repositório criado para a realização de exercícios do Curso de Git da School
 - Fim do primeiro exercício com monitoramento da School of Net
 - Criando um release para o status atual do repositório com o comando "git tag 0.1.0"
 - Enviando o release para o repositório remoto com o comando "git push origin master --tags"
+- Incluindo novo-arquivo.txt no repositório e alterando o arquivo README.md, informando sobre a geração de um novo release: 0.1.1
